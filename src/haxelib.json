@@ -1,0 +1,10 @@
+{
+	"name": "haxe-aspect",
+	"url" : "http://code.google.com/p/haxe-aspect/",
+	"license": "MIT",
+	"tags": ["cross", "aspect", "macro"],
+	"description": "Enables aspect-oriented programming in Haxe",
+	"version": "1.0.1",
+	"contributors": ["SlugFiller"],
+	"releasenote": "Corrected metadata handling"
+}
