@@ -1,6 +1,6 @@
 {
 	"name": "haxe-aspect",
-	"url" : "http://code.google.com/p/haxe-aspect/",
+	"url" : "https://github.com/SlugFiller/haxe-aspect",
 	"license": "MIT",
 	"tags": ["cross", "aspect", "macro"],
 	"description": "Enables aspect-oriented programming in Haxe",
